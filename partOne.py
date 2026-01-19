@@ -3,7 +3,7 @@ def main():
     myFunction(slow)
 
 def myFunction(text):
-    print (a).replace (' ','...')
+    print(str(text).replace (' ','...'))
 
  
 
